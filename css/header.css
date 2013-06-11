@@ -33,7 +33,16 @@ button#trybtn
 
 
 }
+
  h2#scantxt
 {
 	display:none;
+}
+#clip 
+{
+	width:350px;
+	height:200px;
+	border:1px solid #3d3a3a;
+	border-radius:3px;
+	box-shadow:1px 1px 3px black;
 }
