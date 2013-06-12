@@ -7,7 +7,7 @@ div#headercontent h1
 {
 	margin-top:20px;
 }
-div#headercontent button.btn 
+div#headercontent button#trybtn 
 {
 	height:100px;
 	width:250px;
