@@ -5,9 +5,9 @@ $(document).ready(function(){
 		{
 			$("#qrimg").stop(true,false).fadeToggle(1000,function(){
 				$("#clip").stop(true,false).slideToggle(600);
-				
 			});
 			$("#scantxt").stop(true,false).fadeToggle(600);
+			$("#trybtn").text("Try it!");
 		}
 		else
 		{
@@ -15,6 +15,7 @@ $(document).ready(function(){
 				$("#qrimg").stop(true,false).fadeToggle(600);
 				$("#scantxt").stop(true,false).fadeToggle(600);	
 			});
+			$("#trybtn").text("Back to video!");
 			
 		}
 		
