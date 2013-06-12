@@ -36,3 +36,8 @@ button#trybtn
 	border-radius:3px;
 	box-shadow:1px 1px 3px black;
 }
+
+#contactBtn
+{
+	margin-top: 20px;
+}
