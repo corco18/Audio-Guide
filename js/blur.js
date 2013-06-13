@@ -15,7 +15,7 @@ $(document).ready(function(){
 				$("#qrimg").stop(true,false).fadeToggle(600);
 				$("#scantxt").stop(true,false).fadeToggle(600);	
 			});
-			$("#trybtn").text("Back to video!");
+			$("#trybtn").css({"display":"none"});
 			
 		}
 		
