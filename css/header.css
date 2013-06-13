@@ -21,6 +21,7 @@ img#qrimg
 
 button#trybtn
 {
+	margin-top:10px;
 	font-size:30px;
 }
 
@@ -43,3 +44,9 @@ img.app-icon
 	height:50px;
 }
 
+#app-store-content
+{
+	margin-top:10px;
+	
+	
+}
