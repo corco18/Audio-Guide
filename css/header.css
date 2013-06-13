@@ -10,7 +10,7 @@ div#headercontent h1
 div#headercontent button#trybtn 
 {
 	height:100px;
-	width:250px;
+	width:100%;
 }
 img#qrimg
 {
@@ -30,8 +30,8 @@ button#trybtn
 }
 #clip 
 {
-	width:350px;
-	height:200px;
+	width:100%;
+	height:auto;
 	border:1px solid #3d3a3a;
 	border-radius:3px;
 	box-shadow:1px 1px 3px black;
@@ -40,4 +40,6 @@ button#trybtn
 #contactBtn
 {
 	margin-top: 20px;
+	width:100%;
+	padding:7px 0px;
 }
