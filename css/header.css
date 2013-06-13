@@ -37,4 +37,9 @@ button#trybtn
 	box-shadow:1px 1px 3px black;
 }
 
+img.app-icon
+{
+	width:150px;
+	height:50px;
+}
 
