@@ -50,3 +50,7 @@ img.app-icon
 	
 	
 }
+div#app-store-content a:hover 
+{
+	text-decoration:none;
+}
